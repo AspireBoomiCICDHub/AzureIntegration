@@ -41,4 +41,4 @@ jobs:
           app-name: 'TestStandardLP'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4875CA3FD5DA44D7ACD8DA8EA3ADAC66 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_616C6C733CF54DBF868D73558B2487D7 }}
